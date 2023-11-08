@@ -1,7 +1,7 @@
 ### iOS and Flutter Enginner 👋
 
 - About me
-  - [https://github.com/yorifuji/resume](https://resume.yorifuji.dev/)
+  - https://resume.yorifuji.dev/
 
 <!--
 **yorifuji/yorifuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
