@@ -1,4 +1,4 @@
-### iOS and Flutter Enginner 👋
+### iOS and Flutter Engineer 👋
 
 - About me
   - https://resume.yorifuji.dev/
