@@ -1,7 +1,7 @@
 ### iOS and Flutter Engineer 👋
 
 - About me
-  - https://resume.yorifuji.dev/
+  - https://resume.yorifuji.dev
 - OSS
   - [Flutter Analyze Commenter · Actions · GitHub Marketplace](https://github.com/marketplace/actions/flutter-analyze-commenter)
   - [Easy VRT · Actions · GitHub Marketplace](https://github.com/marketplace/actions/easy-vrt)
