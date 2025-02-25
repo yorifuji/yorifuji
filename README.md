@@ -3,6 +3,7 @@
 - About me
   - https://resume.yorifuji.dev
 - OSS
+  - [Xcode Cloud Dispatcher · Actions · GitHub Marketplace](https://github.com/marketplace/actions/xcode-cloud-dispatcher)
   - [Flutter Analyze Commenter · Actions · GitHub Marketplace](https://github.com/marketplace/actions/flutter-analyze-commenter)
   - [Easy VRT · Actions · GitHub Marketplace](https://github.com/marketplace/actions/easy-vrt)
 
