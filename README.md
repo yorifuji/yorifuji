@@ -2,11 +2,13 @@
 
 - About me
   - https://resume.yorifuji.dev
+  - https://zenn.dev/yorifuji
+<!--
 - OSS
   - [Xcode Cloud Dispatcher · Actions · GitHub Marketplace](https://github.com/marketplace/actions/xcode-cloud-dispatcher)
   - [Flutter Analyze Commenter · Actions · GitHub Marketplace](https://github.com/marketplace/actions/flutter-analyze-commenter)
   - [Easy VRT · Actions · GitHub Marketplace](https://github.com/marketplace/actions/easy-vrt)
-
+-->
 <!--
 **yorifuji/yorifuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
